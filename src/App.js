@@ -1,7 +1,7 @@
 import "./App.css";
 import MyNavbar from "./components/MyNavbar";
-import LandingPage from "./pages/LandingPage";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import LandingPage from "./pages/LandingPage";
 
 
 function App() {
