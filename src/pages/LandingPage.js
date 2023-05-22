@@ -1,9 +1,12 @@
 import React from 'react'
+import MyBanner from '../components/banner'
+import Aboutus from '../components/aboutUs'
 
 const LandingPage = () => {
   return (
     <div>
-      LandingPage
+      <MyBanner />
+      <Aboutus />
     </div>
   )
 }

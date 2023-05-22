@@ -1,0 +1,11 @@
+.slider_card {
+  width: 78.2% !important;
+  display: inline-block;
+  border: 1px solid gray;
+}
+.slider_card {
+    content: "";
+}
+.slider_card img {
+    width: 100%;
+}
